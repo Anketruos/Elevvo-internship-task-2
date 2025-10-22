@@ -45,5 +45,6 @@ A stylish lavender-themed contact page where customers can reach out to your fas
 This form looks amazing and validates everything, but doesn't actually send emails yet. Perfect for learning or connecting to a backend later!
 
 ---
+<img width="1439" height="864" alt="image" src="https://github.com/user-attachments/assets/b46d9887-39fa-4da0-9954-0893d50413d8" />
 
-*Made with 💜 for fashion lovers and code enthusiasts!*
+*Made for Elevvo Intership*
